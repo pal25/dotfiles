@@ -1,0 +1,11 @@
+[user]
+	name = Patrick Landis
+	email = pal25@case.edu
+
+[alias]
+	st = status
+	ci = commit
+	co = checkout
+	au = add -u
+
+	
